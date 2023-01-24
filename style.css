@@ -76,7 +76,10 @@ body {
 }
 
 .textBtn{
+    position: relative;
     padding: 0 100px;
+    margin: auto;
+    transform: translateX(-25px);
 }
 
 .shadow::after {
